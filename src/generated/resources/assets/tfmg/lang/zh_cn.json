@@ -17,7 +17,7 @@
   "block.tfmg.aluminum_lamp.tooltip.behaviour1": "发光亮度取决于接收到的电量。",
   "block.tfmg.aluminum_lamp.tooltip.behaviour2": "改变灯发光时的颜色。",
   "block.tfmg.aluminum_lamp.tooltip.condition1": "当通电时：",
-  "block.tfmg.aluminum_lamp.tooltip.condition2": "当使用染料交互时:",
+  "block.tfmg.aluminum_lamp.tooltip.condition2": "当使用染料交互时：",
   "block.tfmg.aluminum_lamp.tooltip.summary": "用于照明。",
   "block.tfmg.aluminum_mechanical_pump": "铝动力泵",
   "block.tfmg.aluminum_pipe": "铝流体管道",
